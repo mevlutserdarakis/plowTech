@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /c/Users/osmansezer/Desktop/flutter_apps/proje_ake/lib/widgets/*.dart)",
+      "Bash(flutter analyze:*)",
+      "Bash(grep -v \"^$\")"
+    ]
+  }
+}
