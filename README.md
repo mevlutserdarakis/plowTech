@@ -1,3 +1,4 @@
+# Masaüstü Uygulamas : https://github.com/mevlutserdarakis/plowTech/raw/main/SitemUygulama.rar
 # Pulluk İşletme Analizi ve Tarla Etkinliği Hesaplama Modeli
 
 Bu belge, **PlowTech (proje_ake)** uygulamasının temel aldığı mühendislik prensiplerini, matematiksel modelleri ve akademik hesaplama yöntemlerini detaylandırmaktadır. Uygulama, tarım makineleri işletmeciliği disiplini çerçevesinde, pullukların operasyonel verimliliğini analiz etmek amacıyla geliştirilmiştir.
