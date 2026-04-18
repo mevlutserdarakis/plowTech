@@ -22,7 +22,7 @@ Uygulama, ASAE (American Society of Agricultural and Biological Engineers) stand
 ### 2.2. Kapasite Hesaplamaları
 Teorik İş Başarısı ($C_{th}$) ve Efektif İş Başarısı ($C_{eff}$) formülleri:
 
-$$C_{th} (da/h) = \frac{V \times Mig}$$
+$$C_{th} (da/h) = V \times Mig$$
 $$C_{eff} = C_{th} \times \eta_{eff}$$
 
 Burada $\eta_{eff}$, tarla etkinliğini temsil eder.
